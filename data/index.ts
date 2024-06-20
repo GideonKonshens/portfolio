@@ -107,40 +107,40 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Jason is a web development whiz! His dedication to the craft is evident in the innovative solutions he brings to the table.  He has a true understanding of what makes a brand shine online, and his work can help you achieve a strong web presence.  If you're looking for a developer who can take your brand to the next level, Jason is your guy!",
+    name: "Joe Nuts",
+    title: "Head of Software Development @ GitLabs.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Jason on our web development project was a smooth and collaborative experience.  His clear communication style ensured we were always on the same page. Jason's expertise in web development was evident in his ability to translate our brand vision into a functional and visually appealing website. We highly recommend him!",
+    name: "Irwing Williams",
+    title: "Head of Software Development @ iGovTT.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Jason's commitment to web development is inspiring.  He approaches every project with a blend of technical skill and creative vision.  His ability to understand user needs and translate them into intuitive website designs is a valuable asset.  Jason's dedication to his craft ensures that he stays up-to-date on the latest web development trends, allowing him to deliver future-proof solutions.",
+    name: "Sanjeev R",
+    title: "Head of Software Development @ Google Inc.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We were impressed with Jason's ability to listen closely to our brand goals and translate them into a website that resonates with our target audience.  His web development expertise was invaluable throughout the entire project. Jason kept us informed and involved in the process, ensuring the final product exceeded our expectations.",
+    name: "Riyaz Shaihk",
+    title: "Head of Software Development @ Microsoft Corporation India.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Jason on our web development project was an absolute pleasure.  His creative web development skills were evident from the very beginning.  Jason has a true talent for elevateing brand visions into stunning and functional websites.  He took the time to understand our specific needs and goals, and his creative solutions exceeded our expectations.  Throughout the entire process, Jason kept us informed and involved, ensuring a smooth and collaborative experience.  We're confident that Jason's expertise in web development will elevate our brand to new heights and success for years to come.  We highly recommend Jason to anyone looking for a top-notch web developer!",
+    name: "Nathan Kwan",
+    title: "Software Engineering manager @ Facebook",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "GitLab",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
