@@ -203,6 +203,7 @@ export const workExperience = [
 
 export const socialMedia = [
   {
+    
     id: 1,
     img: "/git.svg",
   },
